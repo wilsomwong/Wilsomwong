@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @wilsomwong
-- 👀 I’m interested in Hackintosh , C++ Project , Server and more...
-- 🌱 I’m currently learning C++ , later will learn more programming if have time .
-- 💞️ I’m looking to collaborate on NOTHING because im newbie here .
-- 📫 You can reach me in email .
+- 👋  Hi, I’m @wilsomwong
+- 👀  I’m interested in Hackintosh , C++ Project , Server and more...
+- 🌱  I’m currently learning C++ , later will learn more programming if have time .
+- 💞️  I’m looking to collaborate on NOTHING because im newbie here .
+- 📫  You can reach me in email on my profile .
 
-My Bio 
+My Bio :
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Im a newbie recently and very like here , there a lot of professional programmers help me a lot of stuff.
 So I create this account is to share my project help more people solve problem ,
 also can help myself become a very professional programmers like others !
