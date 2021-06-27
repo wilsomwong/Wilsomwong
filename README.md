@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" align="center" style="width: 300%" />
 </div>  
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Wilsomwong.visitor-badge)
 
 - 👋  Hi, I’m @wilsomwong
 - 👀  I’m interested in Hackintosh , C++ Project , Server and more...
