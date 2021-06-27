@@ -2,7 +2,7 @@
 - 👀  I’m interested in Hackintosh , C++ Project , Server and more...
 - 🌱  I’m currently learning C++ , later will learn more programming if have time .
 - 💞️  I’m looking to collaborate on NOTHING because im newbie here .
-- 📫  You can reach me in email on my profile .
+- 📫  You can reach me in [email](wilsomwong040727@gmail.com) on my profile .
 
 My Bio :
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
